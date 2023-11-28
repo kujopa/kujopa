@@ -1,0 +1,4 @@
+- 👋🏻 Hi, I’m Kurtis or ```@kujopa```
+- 👀 I’m passionate about **Amazon Web Services** ☁️ and **iOS app development** 🍎
+- 🌱 I’m currently learning ```terraform.at.scale```
+- 📫 Want to collaborate? Reach out _kujopa@outlook.com_
