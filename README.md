@@ -1,4 +1,4 @@
-- 👋🏻 Hi, I’m Kurtis or ```@kujopa```
+- 👋🏻 Hi, I’m Kurtis, you can tag me ```@kujopa```
 - 👀 I’m passionate about **Amazon Web Services** ☁️ and **iOS app development** 🍎
 - 👾 Always keen to chat about •_serverless_ •_devops_ •_automation_
 - 🌱 I’m currently learning ```terraform.at.scale```
